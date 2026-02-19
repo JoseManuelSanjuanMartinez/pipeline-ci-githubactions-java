@@ -1,4 +1,4 @@
-name: CD - Build Docker, Push to ACR, Deploy to Azure Container Apps
+name: CICD - Workflow (includes building the Docker container, push to ACR and deployment to Azure Container Apps)
 
 on:
   push:
